@@ -3,7 +3,7 @@ Selenium is a smart proxy server that makes it easy to run tests in parallel on 
 We can setup the grid on docker with easy cammands using docker-compose method.
 # To execute this docker-compose yml file use
  `docker-compose -f docker-compose.yml up`
- Add the `-d` flag at th end for detache execution
+ Add the `-d` flag at the end for detache execution
  # To stop the execution , hit Ctrl+c, and then 
   `docker-compose -f docker-compose.yml down`
   
