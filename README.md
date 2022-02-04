@@ -1,4 +1,4 @@
-# DevOps_Assignment3
+# DevOps Assignment selenium grid on docker-compose
 Selenium is a smart proxy server that makes it easy to run tests in parallel on multiple machines. Selenium grid is specializes in running multiple tests  across different browsers.
 We can setup the grid on docker with easy cammands using docker-compose method.
 # To execute this docker-compose yml file use
